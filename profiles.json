@@ -1,0 +1,156 @@
+{
+  "ProfileID": {
+    "Health": 100,
+    "Race": "Human",
+    "Level": 1,
+    "Points": 0,
+    "Money": 0,
+    "Attributes": {
+      "Strength": 0,
+      "Fortitude": 0,
+      "Agility": 0,
+      "Luck": 0
+    },
+    "Inventory": [
+      "Item1",
+      "Item2"
+    ]
+  },
+  "383895244686753802": {
+    "Health": 100,
+    "Race": "Human",
+    "Level": 1001,
+    "Points": 5008,
+    "Money": 99920400,
+    "Attributes": {
+      "Strength": 2,
+      "Fortitude": 1,
+      "Agility": 0,
+      "Luck": 2
+    },
+    "Inventory": []
+  },
+  "192935131554643970": {
+    "Health": 100,
+    "Race": "Human",
+    "Level": 13,
+    "Points": 0,
+    "Money": 10000,
+    "Attributes": {
+      "Strength": 9,
+      "Fortitude": 4,
+      "Agility": 20,
+      "Luck": 40
+    },
+    "Inventory": []
+  },
+  "467989497012027393": {
+    "Health": 100,
+    "Race": "Human",
+    "Level": 8,
+    "Points": 25,
+    "Money": 5000,
+    "Attributes": {
+      "Strength": 20,
+      "Fortitude": 1,
+      "Agility": 0,
+      "Luck": 2
+    },
+    "Inventory": [
+      "Bone",
+      "Bone",
+      "Bone",
+      "Bone",
+      "Fries",
+      "Fries"
+    ]
+  },
+  "423354315063820289": {
+    "Health": 38,
+    "Race": "Human",
+    "Level": 18,
+    "Points": 25,
+    "Money": 11050,
+    "Attributes": {
+      "Strength": 31,
+      "Fortitude": 14,
+      "Agility": 16,
+      "Luck": 12
+    },
+    "Inventory": [
+      "Burger"
+    ]
+  },
+  "538239657113157652": {
+    "Health": 100,
+    "Race": "Human",
+    "Level": 11,
+    "Points": 0,
+    "Money": 5000,
+    "Attributes": {
+      "Strength": 15,
+      "Fortitude": 15,
+      "Agility": 13,
+      "Luck": 20
+    },
+    "Inventory": []
+  },
+  "374942272099319808": {
+    "Health": 100,
+    "Race": "Human",
+    "Level": 9,
+    "Points": 0,
+    "Money": 5000,
+    "Attributes": {
+      "Strength": 20,
+      "Fortitude": 12,
+      "Agility": 14,
+      "Luck": 7
+    },
+    "Inventory": []
+  },
+  "360146849417396224": {
+    "Health": 82,
+    "Race": "Cyborg",
+    "Level": 18,
+    "Points": 0,
+    "Money": 11500,
+    "Attributes": {
+      "Strength": 30,
+      "Fortitude": 73,
+      "Agility": 0,
+      "Luck": 0
+    },
+    "Inventory": [
+      "Burger"
+    ]
+  },
+  "450600696262164481": {
+    "Health": 100,
+    "Race": "Elf",
+    "Level": 1,
+    "Points": 0,
+    "Money": 0,
+    "Attributes": {
+      "Strength": 3,
+      "Fortitude": 3,
+      "Agility": 2,
+      "Luck": 5
+    },
+    "Inventory": []
+  },
+  "727276781156958250": {
+    "Health": 88,
+    "Race": "Human",
+    "Level": 6,
+    "Points": 25,
+    "Money": 5000,
+    "Attributes": {
+      "Strength": 3,
+      "Fortitude": 3,
+      "Agility": 2,
+      "Luck": 5
+    },
+    "Inventory": []
+  }
+}
